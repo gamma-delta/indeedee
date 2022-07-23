@@ -1,0 +1,12 @@
+[package]
+name = "indeedee"
+version = "0.1.0"
+edition = "2021"
+
+license = "MIT"
+description = "Distribute iterated work over multiple frames"
+repository = "https://www.github.com/gamma-delta/indeedee"
+keywords = ["gamedev"]
+categories = ["game-development"]
+
+[dependencies]
